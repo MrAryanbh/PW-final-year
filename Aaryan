@@ -1,0 +1,24 @@
+<html>
+<head>
+</head>
+<title>
+    album
+</title>
+<body>
+<b> MY photo album </b>
+<SECTION CLASS="HEADER">
+    <div class="im">
+ 
+        <img src="C:\Users\kriti\OneDrive\Desktop\AARYAN\4558183logo.jpg " alt="no img "height="30 px " width ="30px">
+    </div>
+       
+    <ul CLASS="NAVIGATION">
+        
+            <li CLASS="NAV"> <a href="CSS.html">HOME PAGE</a></li>
+            <li CLASS="NAV"> <a href="About.html">ABOUT US</a></li>
+            <li CLASS="NAV"> <a href="Contact.html"> CONTACT</a></li>
+            <li CLASS="NAV"> <a href="Detail.html">DETAIL </a></li>
+        </ul>
+    </nav>
+</boby>
+</html>
